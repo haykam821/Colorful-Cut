@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"g  ",
+		"gg ",
+		"ggg"
+	],
+	"key": {
+		"g": {
+			"item": "minecraft:gray_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:gray_concrete_stairs",
+		"count": 4
+	}
+}

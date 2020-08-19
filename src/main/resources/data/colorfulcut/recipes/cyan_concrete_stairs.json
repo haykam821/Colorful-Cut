@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"c  ",
+		"cc ",
+		"ccc"
+	],
+	"key": {
+		"c": {
+			"item": "minecraft:cyan_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:cyan_concrete_stairs",
+		"count": 4
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"m  ",
+		"mm ",
+		"mmm"
+	],
+	"key": {
+		"m": {
+			"item": "minecraft:magenta_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:magenta_concrete_stairs",
+		"count": 4
+	}
+}

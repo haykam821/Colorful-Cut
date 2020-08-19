@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"b  ",
+		"bb ",
+		"bbb"
+	],
+	"key": {
+		"b": {
+			"item": "minecraft:brown_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:brown_concrete_stairs",
+		"count": 4
+	}
+}

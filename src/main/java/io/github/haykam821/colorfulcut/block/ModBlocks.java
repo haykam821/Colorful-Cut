@@ -27,7 +27,23 @@ public enum ModBlocks {
 	BROWN_CONCRETE_SLAB("brown_concrete_slab", new SlabBlock(FabricBlockSettings.copy(Blocks.BROWN_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
 	GREEN_CONCRETE_SLAB("green_concrete_slab", new SlabBlock(FabricBlockSettings.copy(Blocks.GREEN_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
 	RED_CONCRETE_SLAB("red_concrete_slab", new SlabBlock(FabricBlockSettings.copy(Blocks.RED_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
-	BLACK_CONCRETE_SLAB("black_concrete_slab", new SlabBlock(FabricBlockSettings.copy(Blocks.BLACK_CONCRETE)), ItemGroup.BUILDING_BLOCKS);
+	BLACK_CONCRETE_SLAB("black_concrete_slab", new SlabBlock(FabricBlockSettings.copy(Blocks.BLACK_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	WHITE_CONCRETE_STAIRS("white_concrete_stairs", new ColorfulStairsBlock(Blocks.WHITE_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	ORANGE_CONCRETE_STAIRS("orange_concrete_stairs", new ColorfulStairsBlock(Blocks.ORANGE_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	MAGENTA_CONCRETE_STAIRS("magenta_concrete_stairs", new ColorfulStairsBlock(Blocks.MAGENTA_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	LIGHT_BLUE_CONCRETE_STAIRS("light_blue_concrete_stairs", new ColorfulStairsBlock(Blocks.LIGHT_BLUE_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	YELLOW_CONCRETE_STAIRS("yellow_concrete_stairs", new ColorfulStairsBlock(Blocks.YELLOW_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	LIME_CONCRETE_STAIRS("lime_concrete_stairs", new ColorfulStairsBlock(Blocks.LIME_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	PINK_CONCRETE_STAIRS("pink_concrete_stairs", new ColorfulStairsBlock(Blocks.PINK_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	GRAY_CONCRETE_STAIRS("gray_concrete_stairs", new ColorfulStairsBlock(Blocks.GRAY_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	LIGHT_GRAY_CONCRETE_STAIRS("light_gray_concrete_stairs", new ColorfulStairsBlock(Blocks.LIGHT_GRAY_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	CYAN_CONCRETE_STAIRS("cyan_concrete_stairs", new ColorfulStairsBlock(Blocks.CYAN_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	PURPLE_CONCRETE_STAIRS("purple_concrete_stairs", new ColorfulStairsBlock(Blocks.PURPLE_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	BLUE_CONCRETE_STAIRS("blue_concrete_stairs", new ColorfulStairsBlock(Blocks.BLUE_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	BROWN_CONCRETE_STAIRS("brown_concrete_stairs", new ColorfulStairsBlock(Blocks.BROWN_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	GREEN_CONCRETE_STAIRS("green_concrete_stairs", new ColorfulStairsBlock(Blocks.GREEN_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	RED_CONCRETE_STAIRS("red_concrete_stairs", new ColorfulStairsBlock(Blocks.RED_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	BLACK_CONCRETE_STAIRS("black_concrete_stairs", new ColorfulStairsBlock(Blocks.BLACK_CONCRETE), ItemGroup.BUILDING_BLOCKS),;
 
 	public Block block;
 	public BlockItem item;

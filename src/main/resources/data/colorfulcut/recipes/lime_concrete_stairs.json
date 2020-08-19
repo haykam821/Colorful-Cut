@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"l  ",
+		"ll ",
+		"lll"
+	],
+	"key": {
+		"l": {
+			"item": "minecraft:lime_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:lime_concrete_stairs",
+		"count": 4
+	}
+}

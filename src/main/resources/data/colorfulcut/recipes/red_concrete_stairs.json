@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"r  ",
+		"rr ",
+		"rrr"
+	],
+	"key": {
+		"r": {
+			"item": "minecraft:red_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:red_concrete_stairs",
+		"count": 4
+	}
+}

@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"p  ",
+		"pp ",
+		"ppp"
+	],
+	"key": {
+		"p": {
+			"item": "minecraft:purple_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:purple_concrete_stairs",
+		"count": 4
+	}
+}
