@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"type=bottom": {
+			"model": "colorfulcut:block/pink_concrete_slab"
+		},
+		"type=double": {
+			"model": "block/pink_concrete"
+		},
+		"type=top": {
+			"model": "colorfulcut:block/pink_concrete_slab_top"
+		}
+	}
+}

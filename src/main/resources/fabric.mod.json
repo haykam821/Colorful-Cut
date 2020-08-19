@@ -1,0 +1,24 @@
+{
+	"schemaVersion": 1,
+	"id": "colorfulcut",
+	"version": "${version}",
+	"name": "Colorful Cut",
+	"description": "Adds slab, stair, and wall variants of concrete and terracotta.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Colorful-Cut#readme",
+		"issues": "https://github.com/haykam821/Colorful-Cut/issues"
+	},
+	"entrypoints": {
+		"main": [
+			"io.github.haykam821.colorfulcut.Main"
+		]
+	},
+	"license": "MIT",
+	"icon": "assets/colorfulcut/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}
