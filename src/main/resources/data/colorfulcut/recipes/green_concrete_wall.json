@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ggg",
+		"ggg"
+	],
+	"key": {
+		"g": {
+			"item": "minecraft:green_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:green_concrete_wall",
+		"count": 6
+	}
+}

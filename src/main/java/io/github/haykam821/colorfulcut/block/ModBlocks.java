@@ -5,6 +5,7 @@ import net.fabricmc.fabric.api.object.builder.v1.block.FabricBlockSettings;
 import net.minecraft.block.Block;
 import net.minecraft.block.Blocks;
 import net.minecraft.block.SlabBlock;
+import net.minecraft.block.WallBlock;
 import net.minecraft.item.BlockItem;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemGroup;
@@ -43,7 +44,23 @@ public enum ModBlocks {
 	BROWN_CONCRETE_STAIRS("brown_concrete_stairs", new ColorfulStairsBlock(Blocks.BROWN_CONCRETE), ItemGroup.BUILDING_BLOCKS),
 	GREEN_CONCRETE_STAIRS("green_concrete_stairs", new ColorfulStairsBlock(Blocks.GREEN_CONCRETE), ItemGroup.BUILDING_BLOCKS),
 	RED_CONCRETE_STAIRS("red_concrete_stairs", new ColorfulStairsBlock(Blocks.RED_CONCRETE), ItemGroup.BUILDING_BLOCKS),
-	BLACK_CONCRETE_STAIRS("black_concrete_stairs", new ColorfulStairsBlock(Blocks.BLACK_CONCRETE), ItemGroup.BUILDING_BLOCKS),;
+	BLACK_CONCRETE_STAIRS("black_concrete_stairs", new ColorfulStairsBlock(Blocks.BLACK_CONCRETE), ItemGroup.BUILDING_BLOCKS),
+	WHITE_CONCRETE_WALL("white_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.WHITE_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	ORANGE_CONCRETE_WALL("orange_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.ORANGE_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	MAGENTA_CONCRETE_WALL("magenta_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.MAGENTA_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	LIGHT_BLUE_CONCRETE_WALL("light_blue_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.LIGHT_BLUE_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	YELLOW_CONCRETE_WALL("yellow_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.YELLOW_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	LIME_CONCRETE_WALL("lime_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.LIME_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	PINK_CONCRETE_WALL("pink_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.PINK_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	GRAY_CONCRETE_WALL("gray_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.GRAY_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	LIGHT_GRAY_CONCRETE_WALL("light_gray_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.LIGHT_GRAY_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	CYAN_CONCRETE_WALL("cyan_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.CYAN_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	PURPLE_CONCRETE_WALL("purple_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.PURPLE_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	BLUE_CONCRETE_WALL("blue_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.BLUE_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	BROWN_CONCRETE_WALL("brown_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.BROWN_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	GREEN_CONCRETE_WALL("green_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.GREEN_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	RED_CONCRETE_WALL("red_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.RED_CONCRETE)), ItemGroup.BUILDING_BLOCKS),
+	BLACK_CONCRETE_WALL("black_concrete_wall", new WallBlock(FabricBlockSettings.copy(Blocks.BLACK_CONCRETE)), ItemGroup.BUILDING_BLOCKS);
 
 	public Block block;
 	public BlockItem item;

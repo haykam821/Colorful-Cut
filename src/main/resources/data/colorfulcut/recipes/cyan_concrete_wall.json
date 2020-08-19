@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ccc",
+		"ccc"
+	],
+	"key": {
+		"c": {
+			"item": "minecraft:cyan_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:cyan_concrete_wall",
+		"count": 6
+	}
+}

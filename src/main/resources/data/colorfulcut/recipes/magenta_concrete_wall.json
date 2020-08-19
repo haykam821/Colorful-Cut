@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"mmm",
+		"mmm"
+	],
+	"key": {
+		"m": {
+			"item": "minecraft:magenta_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:magenta_concrete_wall",
+		"count": 6
+	}
+}

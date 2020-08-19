@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"lll",
+		"lll"
+	],
+	"key": {
+		"l": {
+			"item": "minecraft:light_gray_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:light_gray_concrete_wall",
+		"count": 6
+	}
+}

@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"www"
+	],
+	"key": {
+		"w": {
+			"item": "minecraft:white_concrete"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:white_concrete_wall",
+		"count": 6
+	}
+}

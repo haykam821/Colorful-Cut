@@ -30,5 +30,21 @@
 	"block.colorfulcut.brown_concrete_stairs": "Brown Concrete Stairs",
 	"block.colorfulcut.green_concrete_stairs": "Green Concrete Stairs",
 	"block.colorfulcut.red_concrete_stairs": "Red Concrete Stairs",
-	"block.colorfulcut.black_concrete_stairs": "Black Concrete Stairs"
+	"block.colorfulcut.black_concrete_stairs": "Black Concrete Stairs",
+	"block.colorfulcut.white_concrete_wall": "White Concrete Wall",
+	"block.colorfulcut.orange_concrete_wall": "Orange Concrete Wall",
+	"block.colorfulcut.magenta_concrete_wall": "Magenta Concrete Wall",
+	"block.colorfulcut.light_blue_concrete_wall": "Light Blue Concrete Wall",
+	"block.colorfulcut.yellow_concrete_wall": "Yellow Concrete Wall",
+	"block.colorfulcut.lime_concrete_wall": "Lime Concrete Wall",
+	"block.colorfulcut.pink_concrete_wall": "Pink Concrete Wall",
+	"block.colorfulcut.gray_concrete_wall": "Gray Concrete Wall",
+	"block.colorfulcut.light_gray_concrete_wall": "Light Gray Concrete Wall",
+	"block.colorfulcut.cyan_concrete_wall": "Cyan Concrete Wall",
+	"block.colorfulcut.purple_concrete_wall": "Purple Concrete Wall",
+	"block.colorfulcut.blue_concrete_wall": "Blue Concrete Wall",
+	"block.colorfulcut.brown_concrete_wall": "Brown Concrete Wall",
+	"block.colorfulcut.green_concrete_wall": "Green Concrete Wall",
+	"block.colorfulcut.red_concrete_wall": "Red Concrete Wall",
+	"block.colorfulcut.black_concrete_wall": "Black Concrete Wall"
 }
