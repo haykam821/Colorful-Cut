@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"m  ",
+		"mm ",
+		"mmm"
+	],
+	"key": {
+		"m": {
+			"item": "minecraft:magenta_terracotta"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:magenta_terracotta_stairs",
+		"count": 4
+	}
+}

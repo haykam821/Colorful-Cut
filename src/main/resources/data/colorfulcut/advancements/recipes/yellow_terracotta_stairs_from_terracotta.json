@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:recipes/root",
+	"rewards": {
+		"recipes": [
+			"colorfulcut:yellow_terracotta_stairs_from_terracotta"
+		]
+	},
+	"criteria": {
+		"has_yellow_terracotta": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:yellow_terracotta"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "colorfulcut:yellow_terracotta_stairs_from_terracotta"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_yellow_terracotta",
+			"has_the_recipe"
+		]
+	]
+}

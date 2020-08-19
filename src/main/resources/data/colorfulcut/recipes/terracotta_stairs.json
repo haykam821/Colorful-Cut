@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"t  ",
+		"tt ",
+		"ttt"
+	],
+	"key": {
+		"t": {
+			"item": "minecraft:terracotta"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:terracotta_stairs",
+		"count": 4
+	}
+}

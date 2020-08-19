@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorful_cut:terracotta_stairs",
+	"pattern": [
+		"ttt",
+		"tct",
+		"ttt"
+	],
+	"key": {
+		"t": {
+			"item": "colorfulcut:terracotta_stairs"
+		},
+		"c": {
+			"item": "minecraft:cyan_dye"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:cyan_terracotta_stairs",
+		"count": 8
+	}
+}

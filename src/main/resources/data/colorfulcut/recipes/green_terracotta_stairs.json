@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"g  ",
+		"gg ",
+		"ggg"
+	],
+	"key": {
+		"g": {
+			"item": "minecraft:green_terracotta"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:green_terracotta_stairs",
+		"count": 4
+	}
+}

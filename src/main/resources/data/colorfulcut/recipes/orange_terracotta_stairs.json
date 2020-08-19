@@ -1,0 +1,17 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"o  ",
+		"oo ",
+		"ooo"
+	],
+	"key": {
+		"o": {
+			"item": "minecraft:orange_terracotta"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:orange_terracotta_stairs",
+		"count": 4
+	}
+}
