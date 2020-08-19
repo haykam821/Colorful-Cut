@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorful_cut:terracotta_slab",
+	"pattern": [
+		"ttt",
+		"tlt",
+		"ttt"
+	],
+	"key": {
+		"t": {
+			"item": "colorfulcut:terracotta_slab"
+		},
+		"l": {
+			"item": "minecraft:light_blue_dye"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:light_blue_terracotta_slab",
+		"count": 8
+	}
+}

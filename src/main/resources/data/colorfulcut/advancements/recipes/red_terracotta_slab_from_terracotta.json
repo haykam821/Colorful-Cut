@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:recipes/root",
+	"rewards": {
+		"recipes": [
+			"colorfulcut:red_terracotta_slab_from_terracotta"
+		]
+	},
+	"criteria": {
+		"has_red_terracotta": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:red_terracotta"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "colorfulcut:red_terracotta_slab_from_terracotta"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_red_terracotta",
+			"has_the_recipe"
+		]
+	]
+}

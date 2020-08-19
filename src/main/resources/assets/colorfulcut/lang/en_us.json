@@ -46,5 +46,22 @@
 	"block.colorfulcut.brown_concrete_wall": "Brown Concrete Wall",
 	"block.colorfulcut.green_concrete_wall": "Green Concrete Wall",
 	"block.colorfulcut.red_concrete_wall": "Red Concrete Wall",
-	"block.colorfulcut.black_concrete_wall": "Black Concrete Wall"
+	"block.colorfulcut.black_concrete_wall": "Black Concrete Wall",
+	"block.colorfulcut.terracotta_slab": "Terracotta Slab",
+	"block.colorfulcut.white_terracotta_slab": "White Terracotta Slab",
+	"block.colorfulcut.orange_terracotta_slab": "Orange Terracotta Slab",
+	"block.colorfulcut.magenta_terracotta_slab": "Magenta Terracotta Slab",
+	"block.colorfulcut.light_blue_terracotta_slab": "Light Blue Terracotta Slab",
+	"block.colorfulcut.yellow_terracotta_slab": "Yellow Terracotta Slab",
+	"block.colorfulcut.lime_terracotta_slab": "Lime Terracotta Slab",
+	"block.colorfulcut.pink_terracotta_slab": "Pink Terracotta Slab",
+	"block.colorfulcut.gray_terracotta_slab": "Gray Terracotta Slab",
+	"block.colorfulcut.light_gray_terracotta_slab": "Light Gray Terracotta Slab",
+	"block.colorfulcut.cyan_terracotta_slab": "Cyan Terracotta Slab",
+	"block.colorfulcut.purple_terracotta_slab": "Purple Terracotta Slab",
+	"block.colorfulcut.blue_terracotta_slab": "Blue Terracotta Slab",
+	"block.colorfulcut.brown_terracotta_slab": "Brown Terracotta Slab",
+	"block.colorfulcut.green_terracotta_slab": "Green Terracotta Slab",
+	"block.colorfulcut.red_terracotta_slab": "Red Terracotta Slab",
+	"block.colorfulcut.black_terracotta_slab": "Black Terracotta Slab"
 }

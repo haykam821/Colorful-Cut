@@ -1,0 +1,15 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ooo"
+	],
+	"key": {
+		"o": {
+			"item": "minecraft:orange_terracotta"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:orange_terracotta_slab",
+		"count": 6
+	}
+}

@@ -15,6 +15,23 @@
 		"colorfulcut:brown_concrete_slab",
 		"colorfulcut:green_concrete_slab",
 		"colorfulcut:red_concrete_slab",
-		"colorfulcut:black_concrete_slab"
+		"colorfulcut:black_concrete_slab",
+		"colorfulcut:terracotta_slab",
+		"colorfulcut:white_terracotta_slab",
+		"colorfulcut:orange_terracotta_slab",
+		"colorfulcut:magenta_terracotta_slab",
+		"colorfulcut:light_blue_terracotta_slab",
+		"colorfulcut:yellow_terracotta_slab",
+		"colorfulcut:lime_terracotta_slab",
+		"colorfulcut:pink_terracotta_slab",
+		"colorfulcut:gray_terracotta_slab",
+		"colorfulcut:light_gray_terracotta_slab",
+		"colorfulcut:cyan_terracotta_slab",
+		"colorfulcut:purple_terracotta_slab",
+		"colorfulcut:blue_terracotta_slab",
+		"colorfulcut:brown_terracotta_slab",
+		"colorfulcut:green_terracotta_slab",
+		"colorfulcut:red_terracotta_slab",
+		"colorfulcut:black_terracotta_slab"
 	]
 }

@@ -1,0 +1,13 @@
+{
+	"variants": {
+		"type=bottom": {
+			"model": "colorfulcut:block/yellow_terracotta_slab"
+		},
+		"type=double": {
+			"model": "block/yellow_terracotta"
+		},
+		"type=top": {
+			"model": "colorfulcut:block/yellow_terracotta_slab_top"
+		}
+	}
+}
