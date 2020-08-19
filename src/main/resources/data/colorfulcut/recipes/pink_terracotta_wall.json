@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"ppp",
+		"ppp"
+	],
+	"key": {
+		"p": {
+			"item": "minecraft:pink_terracotta"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:pink_terracotta_wall",
+		"count": 6
+	}
+}

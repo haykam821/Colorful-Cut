@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:recipes/root",
+	"rewards": {
+		"recipes": [
+			"colorfulcut:purple_terracotta_wall_from_terracotta"
+		]
+	},
+	"criteria": {
+		"has_purple_terracotta": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:purple_terracotta"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "colorfulcut:purple_terracotta_wall_from_terracotta"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_purple_terracotta",
+			"has_the_recipe"
+		]
+	]
+}

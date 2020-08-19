@@ -1,0 +1,32 @@
+{
+	"parent": "minecraft:recipes/root",
+	"rewards": {
+		"recipes": [
+			"colorfulcut:brown_terracotta_wall_from_stonecutting"
+		]
+	},
+	"criteria": {
+		"has_brown_terracotta": {
+			"trigger": "minecraft:inventory_changed",
+			"conditions": {
+				"items": [
+					{
+						"item": "minecraft:brown_terracotta"
+					}
+				]
+			}
+		},
+		"has_the_recipe": {
+			"trigger": "minecraft:recipe_unlocked",
+			"conditions": {
+				"recipe": "colorfulcut:brown_terracotta_wall_from_stonecutting"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"has_brown_terracotta",
+			"has_the_recipe"
+		]
+	]
+}

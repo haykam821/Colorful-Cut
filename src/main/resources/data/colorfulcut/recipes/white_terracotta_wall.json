@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"pattern": [
+		"www",
+		"www"
+	],
+	"key": {
+		"w": {
+			"item": "minecraft:white_terracotta"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:white_terracotta_wall",
+		"count": 6
+	}
+}

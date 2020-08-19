@@ -94,7 +94,24 @@ public enum ModBlocks {
 	BROWN_TERRACOTTA_STAIRS("brown_terracotta_stairs", new ColorfulStairsBlock(Blocks.BROWN_TERRACOTTA), ItemGroup.BUILDING_BLOCKS),
 	GREEN_TERRACOTTA_STAIRS("green_terracotta_stairs", new ColorfulStairsBlock(Blocks.GREEN_TERRACOTTA), ItemGroup.BUILDING_BLOCKS),
 	RED_TERRACOTTA_STAIRS("red_terracotta_stairs", new ColorfulStairsBlock(Blocks.RED_TERRACOTTA), ItemGroup.BUILDING_BLOCKS),
-	BLACK_TERRACOTTA_STAIRS("black_terracotta_stairs", new ColorfulStairsBlock(Blocks.BLACK_TERRACOTTA), ItemGroup.BUILDING_BLOCKS);
+	BLACK_TERRACOTTA_STAIRS("black_terracotta_stairs", new ColorfulStairsBlock(Blocks.BLACK_TERRACOTTA), ItemGroup.BUILDING_BLOCKS),
+	TERRACOTTA_WALL("terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	WHITE_TERRACOTTA_WALL("white_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.WHITE_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	ORANGE_TERRACOTTA_WALL("orange_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.ORANGE_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	MAGENTA_TERRACOTTA_WALL("magenta_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.MAGENTA_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	LIGHT_BLUE_TERRACOTTA_WALL("light_blue_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.LIGHT_BLUE_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	YELLOW_TERRACOTTA_WALL("yellow_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.YELLOW_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	LIME_TERRACOTTA_WALL("lime_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.LIME_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	PINK_TERRACOTTA_WALL("pink_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.PINK_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	GRAY_TERRACOTTA_WALL("gray_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.GRAY_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	LIGHT_GRAY_TERRACOTTA_WALL("light_gray_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.LIGHT_GRAY_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	CYAN_TERRACOTTA_WALL("cyan_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.CYAN_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	PURPLE_TERRACOTTA_WALL("purple_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.PURPLE_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	BLUE_TERRACOTTA_WALL("blue_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.BLUE_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	BROWN_TERRACOTTA_WALL("brown_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.BROWN_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	GREEN_TERRACOTTA_WALL("green_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.GREEN_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	RED_TERRACOTTA_WALL("red_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.RED_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS),
+	BLACK_TERRACOTTA_WALL("black_terracotta_wall", new WallBlock(FabricBlockSettings.copy(Blocks.BLACK_TERRACOTTA)), ItemGroup.BUILDING_BLOCKS);
 
 	public Block block;
 	public BlockItem item;

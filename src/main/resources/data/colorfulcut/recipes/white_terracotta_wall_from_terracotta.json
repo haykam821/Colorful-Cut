@@ -1,0 +1,21 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"group": "colorful_cut:terracotta_wall",
+	"pattern": [
+		"ttt",
+		"twt",
+		"ttt"
+	],
+	"key": {
+		"t": {
+			"item": "colorfulcut:terracotta_wall"
+		},
+		"w": {
+			"item": "minecraft:white_dye"
+		}
+	},
+	"result": {
+		"item": "colorfulcut:white_terracotta_wall",
+		"count": 8
+	}
+}

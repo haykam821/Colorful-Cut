@@ -15,6 +15,23 @@
 		"colorfulcut:brown_concrete_wall",
 		"colorfulcut:green_concrete_wall",
 		"colorfulcut:red_concrete_wall",
-		"colorfulcut:black_concrete_wall"
+		"colorfulcut:black_concrete_wall",
+		"colorfulcut:terracotta_wall",
+		"colorfulcut:white_terracotta_wall",
+		"colorfulcut:orange_terracotta_wall",
+		"colorfulcut:magenta_terracotta_wall",
+		"colorfulcut:light_blue_terracotta_wall",
+		"colorfulcut:yellow_terracotta_wall",
+		"colorfulcut:lime_terracotta_wall",
+		"colorfulcut:pink_terracotta_wall",
+		"colorfulcut:gray_terracotta_wall",
+		"colorfulcut:light_gray_terracotta_wall",
+		"colorfulcut:cyan_terracotta_wall",
+		"colorfulcut:purple_terracotta_wall",
+		"colorfulcut:blue_terracotta_wall",
+		"colorfulcut:brown_terracotta_wall",
+		"colorfulcut:green_terracotta_wall",
+		"colorfulcut:red_terracotta_wall",
+		"colorfulcut:black_terracotta_wall"
 	]
 }
